@@ -1,0 +1,9 @@
+c:\users\tyotk\documents\visual studio 2015\Projects\CalcVS\CalcVS\bin\Debug\CalcVS.exe.config
+c:\users\tyotk\documents\visual studio 2015\Projects\CalcVS\CalcVS\bin\Debug\CalcVS.exe
+c:\users\tyotk\documents\visual studio 2015\Projects\CalcVS\CalcVS\bin\Debug\CalcVS.pdb
+c:\users\tyotk\documents\visual studio 2015\Projects\CalcVS\CalcVS\obj\Debug\CalcVS.csprojResolveAssemblyReference.cache
+c:\users\tyotk\documents\visual studio 2015\Projects\CalcVS\CalcVS\obj\Debug\CalcVS.exe
+c:\users\tyotk\documents\visual studio 2015\Projects\CalcVS\CalcVS\obj\Debug\CalcVS.pdb
+C:\Csharp\Calc csc\CalcVS\CalcVS\bin\Debug\CalcVS.exe.config
+C:\Csharp\Calc csc\CalcVS\CalcVS\obj\Debug\CalcVS.exe
+C:\Csharp\Calc csc\CalcVS\CalcVS\obj\Debug\CalcVS.pdb
